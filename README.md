@@ -5,23 +5,21 @@ Mechanický věčný kalendář kombinující laserem řezanou překližku a 3D 
 
 # To-do list
 
-[ ] Příprava vektorů: Navrhnout čelní panel s motivem stromu a výřezy pro data
+- [x] Příprava vektorů: Navrhnout čelní panel s motivem stromu a výřezy pro data
 
-[ ] Sazba grafiky: Rozmístit texty (dny, měsíce, čísla) na prstence pro přesné lícování s okénky
+- [x] Sazba grafiky: Rozmístit texty (dny, měsíce, čísla) na prstence pro přesné lícování s okénky
 
-[ ] Modelování jádra: Navrhnout 3D tištěná vnitřní vodítka, která udrží dřevěné prstence v ose
+- [x] Konstrukce podstavce: základna s drážkou odpovídající tloušťce celého "sendviče"
 
-[ ] Konstrukce podstavce: Namodelovat základnu s drážkou odpovídající tloušťce celého "sendviče"
+- [ ] Test tolerance: Vytisknout segment vodítka a zkusit plynulost otáčení dřevěného prstence (offset 0,3 mm)
 
-[ ] Test tolerance: Vytisknout segment vodítka a zkusit plynulost otáčení dřevěného prstence (offset 0,3 mm)
+- [ ] Laserování: Vypálit a vyříznout čelní panel, zadní panel a tři datové prstence
 
-[ ] Laserování: Vypálit a vyříznout čelní panel, zadní panel a tři datové prstence
+- [ ] 3D Tisk: Vytisknout kompletní sadu vnitřních vodítek a dvoudílný podstavec
 
-[ ] 3D Tisk: Vytisknout kompletní sadu vnitřních vodítek a dvoudílný podstavec
+- [ ] Povrchová úprava: Přebrousit opálené hrany dřeva a ošetřit prstence voskem pro nižší tření
 
-[ ] Povrchová úprava: Přebrousit opálené hrany dřeva a ošetřit prstence voskem pro nižší tření
-
-[ ] Kompletace: Složit vrstvy do sebe, uzavřít panely a usadit kalendář do podstavce
+- [ ] Kompletace: Složit vrstvy do sebe, uzavřít panely a usadit kalendář do podstavce
 
 ## Image
 <img width="1200" height="1694" alt="Kalendar" src="https://github.com/user-attachments/assets/a2c42b64-e7f6-40a9-a83c-d31f63c97dd0" />
